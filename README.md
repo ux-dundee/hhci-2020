@@ -1,5 +1,9 @@
 # The User Centre
 ## 15 Years of Working with Hard to Reach Users in Easy to Reach Places
+
+[![DOI](https://zenodo.org/badge/304029816.svg)](https://zenodo.org/badge/latestdoi/304029816)
+
+
 This repository hold the a paper presented at the [History of Computer Interaction Workshop](https://hcibook.net/hcihistory/) that took part as part of [British HCI 2020](https://bcshci2020.com/).
 
 The work was carried out by:
